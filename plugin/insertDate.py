@@ -1,6 +1,5 @@
 # coding=utf-8
 import sublime, sublime_plugin
-import locale
 from datetime import datetime
 
 class TodaydateCommand(sublime_plugin.TextCommand):
